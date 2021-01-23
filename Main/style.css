@@ -2,3 +2,8 @@ h1:hover {
   color: blue;
   background-color: orangered;
 }
+
+input:focus {
+  color: red;
+  background-color: teal;
+}
