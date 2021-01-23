@@ -7,3 +7,18 @@ input:focus {
   color: red;
   background-color: teal;
 }
+
+button:focus {
+  border-radius: 10px;
+  background-color: #99badd;
+}
+
+button:active {
+  background-color: orangered;
+  font-size: 20px;
+}
+
+h1:active,
+p:active {
+  color: yellow;
+}
